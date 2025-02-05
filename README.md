@@ -1,36 +1,34 @@
-# Kaleido Auto Bot 🤖
-THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
+# Kaleido 自动机器人 🤖
 
-## Register
-- https://kaleidofinance.xyz/testnet?ref=ZXTAEAVF
+## 注册
+- https://kaleidofinance.xyz/testnet?ref=UIWF539N
 
-## 🌟 Features
+## 🌟 功能
 
-- **Multi-Wallet Mining Support**: Manage multiple wallets simultaneously.
-- **Real-Time Earnings Dashboard**: Track your earnings in real-time.
-- **Automatic Pending → Paid Conversion**: Automatically convert pending earnings to paid balance.
-- **Quantum Hash Algorithm Implementation**: Optimized for quantum mining.
-- **Auto-Retry with Exponential Backoff**: Handle network issues gracefully.
-- **Detailed Mining Statistics & Analytics**: Get insights into your mining performance.
-- **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.
+- **多钱包挖矿支持**：同时管理多个钱包。
+- **实时收益仪表盘**：实时跟踪您的收益。
+- **自动待处理 → 已支付转换**：自动将待处理收益转换为已支付余额。
+- **量子哈希算法实现**：针对量子挖矿进行了优化。
+- **指数退避自动重试**：优雅地处理网络问题。
+- **详细的挖矿统计与分析**：深入了解您的挖矿性能。
+- **跨平台兼容性**：支持 Windows、macOS 和 Linux。
 
-## 🚀 Installation
+## 🚀 安装
 
-1. Clone the repository:
+1. 克隆仓库：
    ```bash
-   git clone https://github.com/airdropinsiders/KaleidoFinance-Auto-Bot.git
+   git clone https://github.com/Gzgod/KaleidoFinance-Auto-Bot.git
    cd KaleidoFinance-Auto-Bot
    ```
-2. Install dependencies:
+2. 安装依赖：
    ```bash
    npm install
    ```
-3. Create a wallets.txt file and add your wallet addresses (one per line):
+3. 创建一个 wallets.txt 文件，并添加您的钱包地址（每行一个）：
    ```bash
    nano wallets.txt
    ```
-4. Run Bot
+4. 运行机器人：
    ```bash
    npm run start
    ```
-
