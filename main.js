@@ -1,5 +1,5 @@
 // main.js
-import {MiningCoordinator} from'./miner.js';
+const { MiningCoordinator } = require('./miner.js');
 
-// Start the mining process
+// 开始挖矿过程
 new MiningCoordinator().start().catch(console.error);
