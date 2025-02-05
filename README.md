@@ -3,6 +3,14 @@
 ## 注册
 - https://kaleidofinance.xyz/testnet?ref=UIWF539N
 
+## 一键命令
+
+- 记得先创建screen（screen -S kaleido)
+   ```bash
+   git clone https://github.com/Gzgod/KaleidoFinance-Auto-Bot.git
+   cd KaleidoFinance-Auto-Bot
+   ```
+
 ## 🌟 功能
 
 - **多钱包挖矿支持**：同时管理多个钱包。
