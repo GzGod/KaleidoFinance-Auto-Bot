@@ -7,8 +7,7 @@
 
 - 记得先创建screen（screen -S kaleido)
    ```bash
-   git clone https://github.com/Gzgod/KaleidoFinance-Auto-Bot.git
-   cd KaleidoFinance-Auto-Bot
+   wget -O kaleido.sh https://raw.githubusercontent.com/GzGod/KaleidoFinance-Auto-Bot/refs/heads/main/kaleido.sh && sed -i 's/\r$//' kaleido.sh && chmod +x kaleido.sh && ./kaleido.sh
    ```
 
 ## 🌟 功能
